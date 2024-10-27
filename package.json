@@ -4,7 +4,7 @@
   "description": "Aneesh Gopalakrishnan's website on github pages",
   "repository": {
     "type": "git",
-    "url": "https://github.com/codehippie1/aneeshlal.test.github.io"
+    "url": "https://github.com/codehippie1/codehippie1.github.io"
   },
   "keywords": [
     "Aneesh",
@@ -15,7 +15,7 @@
     "Startup Plus"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/codehippie1/aneeshlal.test.github.io",
+  "homepage": "https://github.com/codehippie1/codehippie1.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },
