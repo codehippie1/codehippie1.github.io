@@ -1,25 +1,21 @@
 {
-  "name": "academic-pages",
-  "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "name": "aneesh-github-io",
+  "version": "1.0",
+  "description": "Aneesh Gopalakrishnan's website on github pages",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://github.com/codehippie1/aneeshlal.test.github.io"
   },
   "keywords": [
-    "jekyll",
-    "theme",
-    "minimal"
-  ],
-  "contributors": [
-    "Michael Rose",
-    "Robert Zupko"
+    "Aneesh",
+    "Gopalakrishnan",
+    "Remitto",
+    "ng2-pdfjs-viewer",
+    "Parkr",
+    "Startup Plus"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/academicpages/academicpages.github.io/issues"
-  },
-  "homepage": "https://github.com/academicpages/academicpages.github.io",
+  "homepage": "https://github.com/codehippie1/aneeshlal.test.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },

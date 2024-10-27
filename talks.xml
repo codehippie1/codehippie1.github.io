@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aneesh Talks</title>
+    <description>Aneesh Talks</description>
+    <copyright>Copyright Muziris 2023 All rights reserved</copyright>
+    <language>en-US</language>
+    <ttl>60</ttl>
+    <lastBuildDate>Wed, 29 Mar 2023 00:41:08 GMT</lastBuildDate>
+    <item>
+      <title>ReactJS and ASP.NET: The Dynamic Duo of Web Development</title>
+      <description>ReactJS and ASP.NET: The Dynamic Duo of Web Development</description>
+      <link>https://www.youtube.com/watch?v=lvVycY2crAk</link>
+      <guid isPermaLink="false">e337001e3cd647878465dea0040d4a61</guid>
+      <pubDate>Wed, 29 Mar 2023 00:36:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>A trip to MAUI on .NET</title>
+      <description>A trip to MAUI on .NET</description>
+      <link>https://www.youtube.com/watch?v=DBkgipvL6ak</link>
+      <guid isPermaLink="false">fb2a6dfdb0c8498983e06f27534c0af8</guid>
+      <pubDate>Wed, 29 Mar 2023 00:35:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Getting started with .NET MAUI (Hey Flutter and RN, better watch out)</title>
+      <description>Getting started with .NET MAUI (Hey Flutter and RN, better watch out)</description>
+      <link>https://www.youtube.com/watch?v=Gowr_23aIkw</link>
+      <guid isPermaLink="false">42b85152636a4f43a78449264c39783b</guid>
+      <pubDate>Wed, 29 Mar 2023 00:35:10 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

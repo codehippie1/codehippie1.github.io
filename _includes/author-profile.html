@@ -16,7 +16,7 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
+    {% if author.addons %}<p class="author__pronouns">{{ author.addons }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
@@ -56,8 +56,11 @@
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
       {% endif %}                        
-      {% if author.researchgate %}
-        <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
+      {% if author.redgate %}
+        <li><a href="{{ author.redgate }}"><i class="fab fa-fw fa-bitbucket icon-pad-right" aria-hidden="true"></i>Redgate</a></li>
+      {% endif %}
+      {% if author.dzone %}
+        <li><a href="{{ author.dzone }}"><i class="fab fa-fw fa-bitbucket icon-pad-right" aria-hidden="true"></i>DZone</a></li>
       {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
@@ -111,11 +114,11 @@
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
       {% endif %}      
-      {% if author.mastodon %}
-        <li><a href="{{ author.mastodon }}"><i class="fab fa-fw fa-mastodon icon-pad-right" aria-hidden="true"></i>Mastodon</a></li>
+      {% if author.mentoringclub %}
+        <li><a href="{{ author.mentoringclub }}"><i class="fab fa-fw fa-people-group icon-pad-right" aria-hidden="true"></i>Mentoring Club</a></li>
       {% endif %}
-      {% if author.medium %}
-        <li><a href="{{ author.medium }}"><i class="fab fa-fw fa-medium icon-pad-right" aria-hidden="true"></i>Medium</a></li>
+      {% if author.mvp %}
+        <li><a href="{{ author.mvp }}"><i class="fab fa-fw fa-microsoft icon-pad-right" aria-hidden="true"></i>Microsoft MVP</a></li>
       {% endif %}      
       {% if author.pinterest %}
         <li><a href="https://www.pinterest.com/{{ author.pinterest }}"><i class="fab fa-fw fa-pinterest icon-pad-right" aria-hidden="true"></i>Pinterest</a></li>

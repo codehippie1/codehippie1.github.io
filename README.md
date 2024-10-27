@@ -35,6 +35,14 @@ When you are initially working your website, it is very useful to be able to pre
 
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
+# Note by Aneesh
+On Windows
+
+1. sudo apt install ruby-dev ruby-bundler nodejs
+2. sudo apt install build-essential gcc make
+3. bundle install
+4. bundle exec jekyll serve -l -H localhost
+
 ## Using Docker
 
 Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
