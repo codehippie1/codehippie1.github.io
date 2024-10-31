@@ -1,6 +1,7 @@
 ---
 title: "ReactJS and ASP.NET: The Dynamic Duo of Web Development"
 collection: talks
+category: presentations
 type: "Talk"
 permalink: /talks/reactjs-and-aspnet-the-dynamic-duo-of-web-development
 venue: "Online"

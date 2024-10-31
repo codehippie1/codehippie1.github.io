@@ -1,6 +1,7 @@
 ---
 title: "React in Reactor: How to Azure Your .NET Apps with Confidence"
 collection: talks
+category: presentations
 type: "Talk"
 permalink: /talks/react-in-reactor-how-to-azure-your-dotnet-apps-with-confidence
 venue: "Microsoft, 11 Time Square & Online(Hybrid)"
@@ -15,7 +16,7 @@ Global Azure Bootcamp is a worldwide community-driven event dedicated to educati
 
 Throughout his presentation, Aneesh used a live demo to illustrate the process of building a React app from scratch, adding authentication with Azure, and integrating it into an ASP.NET Core API backend. Starting with a blank project, he guided the audience through key steps in setting up MSAL.js, explaining how each configuration could address different authentication needs, like single sign-on and multi-tenant applications. This hands-on approach made it easy for attendees to follow along and see firsthand how to implement secure authentication in their own projects. Details of the event can be found on the official Meetup pages ([NYC Mobile .NET Developers Group](https://www.meetup.com/nycmobiledev/events/293409928/) and [.NET Virtual User Group](https://www.meetup.com/dotnet-virtual-user-group/events/293412627/)) and on the [Microsoft Reactor page](https://developer.microsoft.com/en-us/reactor/events/19211/).
 
-Aneesh’s live coding session provided a complete walkthrough of setting up MSAL authentication. He emphasized the flexibility of MSAL.js, showing how developers could customize login screens and secure user data through token-based access controls. His demo app source code, which is available on GitHub at [github.com/codehippie1/react-in-reactor](https://github.com/codehippie1/react-in-reactor), serves as a reference point for developers looking to integrate Azure authentication quickly and securely into their applications.
+Aneesh’s live coding session provided a complete walkthrough of setting up MSAL authentication. He emphasized the flexibility of MSAL.js, showing how developers could customize login screens and secure user data through token-based access controls. His demo app source code, which is available on GitHub at [react-in-reactor](https://github.com/codehippie1/react-in-reactor), serves as a reference point for developers looking to integrate Azure authentication quickly and securely into their applications.
 
 The hybrid format of the event meant that attendees could watch Aneesh's session live on [YouTube](https://www.youtube.com/watch?v=L_f9EOLN4Eo) as well, with a timestamp marking the start of his talk [here](https://www.youtube.com/live/L_f9EOLN4Eo?si=oUImlgW7J6pquwR9&t=7056). He also explained how MSAL’s authentication capabilities extend beyond React, making it versatile for various frameworks and backend integrations, especially in enterprise-level security implementations.
 

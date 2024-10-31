@@ -1,6 +1,7 @@
 ---
 title: "A trip to MAUI on .NET"
 collection: talks
+category: presentations
 type: "Talk"
 permalink: /talks/a-trip-to-maui-on-dotnet
 venue: "Online"

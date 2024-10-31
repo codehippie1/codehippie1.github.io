@@ -1,6 +1,7 @@
 ---
 title: "Semantic Kernel"
 collection: talks
+category: presentations
 type: "Talk"
 permalink: /talks/sematic-kernel
 venue: "Online"
@@ -11,7 +12,7 @@ excerpt: "In his recent talk for the Pittsburgh .NET User Group (PGHDOTNET), Ane
 
 In his presentation for the Pittsburgh .NET User Group (PGHDOTNET) on May 11, 2024, Aneesh Gopalakrishnan introduced the open-source Semantic Kernel (SK), an SDK designed to help developers seamlessly integrate AI capabilities into existing applications. Semantic Kernel is designed to be lightweight, making it accessible for both newcomers to AI and experienced developers looking to embed AI-powered workflows into their applications. Aneesh highlighted how SK can enhance development by adding natural language processing and AI-driven automation to a .NET environment, bringing a new level of adaptability to applications without requiring extensive overhauls of existing codebases.
 
-In a live demonstration, Aneesh created a Semantic Kernel app capable of generating "call for proposal" content aimed at inviting potential tech speakers for future talks. Using an SK-powered agent, he showcased how developers can construct an AI-based workflow that generates dynamic content, including customized email subjects, content tailored to the speaker, and even personalized follow-up questions. The demonstration underscored the ease with which Semantic Kernel integrates with tools and allows developers to tailor AI responses according to specific business needs, making it particularly useful for automation in communication and content generation.
+In a live demonstration, Aneesh created a Semantic Kernel app capable of generating "call for proposal" content aimed at inviting potential tech speakers for future talks. Using an SK-powered agent, he showcased how developers can construct an AI-based workflow that generates dynamic content, including customized email subjects, content tailored to the speaker, and even personalized follow-up questions. The demonstration underscored the ease with which Semantic Kernel integrates with tools and allows developers to tailor AI responses according to specific business needs, making it particularly useful for automation in communication and content generation. The source code of the app built during the live demonstration can be found in one of Aneesh's repo [here](https://github.com/codehippie1/aspnetcore-semantic-kernel).
 
 Aneesh’s example of a content-creating agent illustrated how SK can be configured to gather recipient details, ask for confirmation, and finalize messages before sending. This approach simplifies repetitive communication tasks and ensures that outreach efforts are personalized and streamlined. The versatility of SK in handling different aspects of communication within the same application showed its potential to reduce manual overhead in professional settings significantly.
 

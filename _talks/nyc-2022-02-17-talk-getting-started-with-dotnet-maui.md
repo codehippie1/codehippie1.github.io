@@ -1,6 +1,7 @@
 ---
 title: "Getting started with .NET MAUI (Hey Flutter and RN, better watch out)"
 collection: talks
+category: presentations
 type: "Talk"
 permalink: /talks/getting-started-with-dotnet-maui
 venue: "Online"
@@ -10,5 +11,7 @@ excerpt: "Aneesh organized a talk on .NET MAUI before it was scheduled to go liv
 ---
 
 As the organizer of one of the biggest .NET groups in New York City, Aneesh has organized a talk on .NET MAUI before it was scheduled to be live in November. The talk was streamed live on YouTube and LinkedIn. This event was also featured on the home page of the .NET Foundation website and has gathered more than 4500 views.
+
+Aneesh also ran a marketing campaign to attract more attendees for the event through [Eventbrite event listing](https://www.eventbrite.com/e/virtual-getting-started-with-net-maui-tickets-264925518357). He published the event on Eventbrite and has received positive out come.
 
 In this talk, Jesus introduced .NET MAUI to the audience and built a sample cross platform app using the newly minted framework. He also introduced audience on making backend api calls using .NET MAUI framework. You may watch the full video [here](https://www.youtube.com/live/Gowr_23aIkw)

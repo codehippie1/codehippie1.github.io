@@ -89,6 +89,15 @@ publication_category:
   guides:
     title: 'Guides'
 
+# Talk Category - The following the list of talk categories and their headings
+talk_category:
+  presentations:
+    title: 'Talks and Presentations'
+  podcasts:
+    title: 'Podcasts'
+  interviews:
+    title: 'Interviews'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -218,7 +227,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  mentoring:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -252,10 +261,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _mentoring
   - scope:
       path: ""
-      type: teaching
+      type: mentoring
     values:
       layout: single
       author_profile: true
