@@ -7,11 +7,11 @@ permalink: /talks/getting-started-with-dotnet-maui
 venue: "Online"
 date: 2022-02-17
 location: "New York City, NY"
-excerpt: "Aneesh organized a talk on .NET MAUI before it was scheduled to go live in November 2022. The talk was streamed live on YouTube and LinkedIn. This event was also featured on the home page of the .NET Foundation website and has gathered more than 4500 views."
+excerpt: "I organized a talk on .NET MAUI before its official release in November 2022. The session was live-streamed on YouTube and LinkedIn, allowing a broader audience to join in real-time. The event was also featured on the home page of the .NET Foundation website and has since gathered over 4,500 views."
 ---
 
-As the organizer of one of the biggest .NET groups in New York City, Aneesh has organized a talk on .NET MAUI before it was scheduled to be live in November. The talk was streamed live on YouTube and LinkedIn. This event was also featured on the home page of the .NET Foundation website and has gathered more than 4500 views.
+As the organizer of one of the largest .NET groups in New York City, I organized a talk on .NET MAUI before its official release in November. The session was live-streamed on YouTube and LinkedIn, reaching a broad audience. This event was featured on the home page of the .NET Foundation website and has gathered over 4,500 views.
 
-Aneesh also ran a marketing campaign to attract more attendees for the event through [Eventbrite event listing](https://www.eventbrite.com/e/virtual-getting-started-with-net-maui-tickets-264925518357). He published the event on Eventbrite and has received positive out come.
+To ensure a wider reach, I ran a marketing campaign for the event using [Eventbrite](https://www.eventbrite.com/e/virtual-getting-started-with-net-maui-tickets-264925518357). The listing received positive feedback and helped attract more attendees to the session.
 
-In this talk, Jesus introduced .NET MAUI to the audience and built a sample cross platform app using the newly minted framework. He also introduced audience on making backend api calls using .NET MAUI framework. You may watch the full video [here](https://www.youtube.com/live/Gowr_23aIkw)
+During the talk, Jesus introduced .NET MAUI to the audience and demonstrated building a sample cross-platform app using the framework. He also guided attendees on making backend API calls within the .NET MAUI environment. You can watch the full session [here](https://www.youtube.com/live/Gowr_23aIkw).
