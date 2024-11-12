@@ -11,25 +11,6 @@ author_profile: true
 
 {% endif %}
 
-
-<!-- {% if site.talk_category %}
-  {% for tcategory in site.talk_category %}
-    {% assign title_shown = false %}
-    {% for post in site.talks reversed %}
-      <h4>Post Category -> {{post.category}}</h4>
-      <h5>T category of 0 -> {{tcategory[0]}}</h5>
-      {% if post.category != tcategory[0] %}
-        {% continue %}
-      {% endif %}
-      {% include archive-single-talk.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.talks reversed %}
-    {% include archive-single-talk.html %}
-  {% endfor %}
-{% endif %} -->
-
 <!-- New style rendering if publication categories are defined -->
 {% if site.talk_category %}
   {% for category in site.talk_category  %}
@@ -50,14 +31,3 @@ author_profile: true
     {% include archive-single-talk.html %}
   {% endfor %}
 {% endif %}
-
-
-<!-- <h2>Talks and Presentations</h2><hr />
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
-
-<h2>Podcasts</h2><hr />
-{% for post in site.podcasts reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %} -->
