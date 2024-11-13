@@ -1,0 +1,28 @@
+---
+layout: archive
+title: "Software"
+permalink: /software/
+author_profile: true
+---
+
+{% if site.software_category %}
+  {% for category in site.software_category  %}
+    {% assign title_shown = false %}
+    {% assign software = site.software | sort:"weight" %} 
+    {% for post in software %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% assign software = site.software | sort:"weight" %} 
+  {% for post in software %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}

@@ -1,3 +1,6 @@
+# Help
+https://github.com/academicpages/academicpages.github.io/wiki/Customizing-the-content-on-your-site
+
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 
