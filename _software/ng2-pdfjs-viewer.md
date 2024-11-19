@@ -1,5 +1,5 @@
 ---
-title: "Angular PDF Viewer"
+title: "Angular PDF Viewer (Open-source Software/OSS)"
 weight: 100
 collection: software
 category: software
